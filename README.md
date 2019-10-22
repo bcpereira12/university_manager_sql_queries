@@ -1,0 +1,1 @@
+# university_manager_sql_queries
